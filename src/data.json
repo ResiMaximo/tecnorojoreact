@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 11",
+      "price": 1000,
+      "description":
+        "Minimo de memoria 64GB hasta los 256GB, Chip A13 Bionic, CPU de 6 nucleos.",
+      "stock": 3,
+      "category": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 12",
+      "price": 1100,
+      "description":
+      "Minimo de memoria 64GB hasta los 256GB, Chip A14 Bionic, CPU de 6 nucleos.",
+      "stock": 8,
+      "category": "Apple"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 7 Pro",
+      "price": 1300,
+      "description":
+        "Memoria 128GB hasta los 256GB, 12 de RAM, Google Tensor G2.",
+      "stock": 3,
+      "category": "Google"
+    },
+    {
+      "id": 4,
+      "name": "Samsung S23 Ultra",
+      "price": 1400,
+      "description":
+        "Memoria desde 256GB hasta 1TB, 8-12 de RAM, procesador Qualcomm Snapdragon 8 Gen 2.",
+      "stock": 5,
+      "category": "Samsung"
+    }
+  ]
